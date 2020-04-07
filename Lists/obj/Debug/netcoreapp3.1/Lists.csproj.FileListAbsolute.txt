@@ -1,0 +1,12 @@
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/bin/Debug/netcoreapp3.1/Lists.deps.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.dev.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/bin/Debug/netcoreapp3.1/Lists.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/bin/Debug/netcoreapp3.1/Lists.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.csprojAssemblyReference.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.csproj.CoreCompileInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfoInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfo.cs
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Lists/obj/Debug/netcoreapp3.1/Lists.genruntimeconfig.cache
