@@ -1,0 +1,12 @@
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.deps.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.runtimeconfig.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.runtimeconfig.dev.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/bin/Debug/netcoreapp3.1/Tic-Tac-Toe.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.csprojAssemblyReference.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.AssemblyInfoInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.AssemblyInfo.cs
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/Tic-Tac-Toe/obj/Debug/netcoreapp3.1/Tic-Tac-Toe.genruntimeconfig.cache
