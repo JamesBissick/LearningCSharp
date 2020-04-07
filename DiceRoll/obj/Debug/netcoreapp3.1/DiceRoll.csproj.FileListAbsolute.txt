@@ -1,0 +1,12 @@
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/bin/Debug/netcoreapp3.1/DiceRoll.deps.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/bin/Debug/netcoreapp3.1/DiceRoll.runtimeconfig.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/bin/Debug/netcoreapp3.1/DiceRoll.runtimeconfig.dev.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/bin/Debug/netcoreapp3.1/DiceRoll.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/bin/Debug/netcoreapp3.1/DiceRoll.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.csprojAssemblyReference.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.csproj.CoreCompileInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.AssemblyInfoInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.AssemblyInfo.cs
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/DiceRoll/obj/Debug/netcoreapp3.1/DiceRoll.genruntimeconfig.cache
