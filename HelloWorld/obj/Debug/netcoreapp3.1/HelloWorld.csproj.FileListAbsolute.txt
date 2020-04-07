@@ -1,0 +1,12 @@
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
