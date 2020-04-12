@@ -1,0 +1,12 @@
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/bin/Debug/netcoreapp3.1/CarPark.deps.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/bin/Debug/netcoreapp3.1/CarPark.runtimeconfig.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/bin/Debug/netcoreapp3.1/CarPark.runtimeconfig.dev.json
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/bin/Debug/netcoreapp3.1/CarPark.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/bin/Debug/netcoreapp3.1/CarPark.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.csprojAssemblyReference.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.csproj.CoreCompileInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.AssemblyInfoInputs.cache
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.AssemblyInfo.cs
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.dll
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.pdb
+/Users/jamesbissick/Desktop/BOOTCAMP/PROJECTS/CSharp.1/CarPark/obj/Debug/netcoreapp3.1/CarPark.genruntimeconfig.cache
