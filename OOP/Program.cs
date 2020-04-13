@@ -22,6 +22,23 @@ namespace OOP {
             
             Console.WriteLine(Animal.numAnimals + " animals created.");
             
+            // Advanced OOP Notions
+            
+            // Reference variable
+            Animal SecondDog = Dog; // SecondDog is copying the address because it's a reference to an (object)
+            Console.WriteLine("\nTesting Advanced OOP notion of reference type");
+            SecondDog.Age = 8; // Will affect SecondDog but also Dog, because they share the same address, they are the same dog!
+            Console.WriteLine(Dog);
+            Console.WriteLine(SecondDog);
+            
+            // Value variable
+            int i = 3;
+            int j = i; // j is copying the value 3, because its a value type
+            j++;
+            Console.WriteLine("\nTesting Advanced OOP notion of value type");
+            Console.WriteLine(j);
+            Console.WriteLine(i); // Not affected by incrementing j because its a value type (int)
+            
             Console.ReadKey();
         }
     }
